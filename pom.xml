@@ -10,6 +10,14 @@
     <name>jcarrierpigeon</name>
     <url>http://jcarrierpigeon.sourceforge.net</url>
 
+    <licenses>
+        <license>
+            <name>New BSD License</name>
+            <url>http://www.opensource.org/licenses/bsd-license.php</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
